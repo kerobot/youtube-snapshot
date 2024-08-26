@@ -1,2 +1,16 @@
 # youtube-snapshot
-YouTube Video Screenshot Extension
+
+## YouTube Video Screenshot Extension
+
+Youtube 動画のスクリーンショットを撮るための Chrome 拡張機能です。
+
+## 機能
+
+動画の右上にボタン群が表示されますので、必要なタイミングに移動してスクリーンショットを撮ってください。
+
+Youtube の埋め込み URL で動画を表示した際にスクリーンショットを撮れるようにするため、動画の上にボタン群を表示しています。
+
+## おまけ機能
+
+オプションで FPS 表示の ON/OFF ができます。  
+ただし、動画のFPSではなくブラウザの再描画間隔を計算して平均したおおよその更新間隔となります。
